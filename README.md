@@ -4,8 +4,8 @@
 
 Online database for "The Bhagwat Gita"
   - Each chapter is in corrosponding JOSN file.
-  - Each JSON file contains array of object.
-  - Each object contains verse.
+  - Each JSON file contains chapter name and verses in that chapter.
+
 
 > ॐ नमः शिवाय
 
@@ -17,10 +17,13 @@ Plug 'n' play
 ### Development
 
 Spot an error ? 
+
 Want to contribute? 
+
 Great!
 
-Create and issue or just create an PR. I'll be more happy to include relevent changes.
+Create and issue or just create a PR. I'll be more happy to include relevent changes.
+
 :)
 
 

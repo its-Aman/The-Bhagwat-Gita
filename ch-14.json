@@ -1,142 +1,145 @@
-[
-    {
-        "hn": "श्रीभगवानुवाच |\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ||१४-१||\n",
-        "en": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ..14-1..\n",
-        "desc": "The Blessed Lord said:\n1. I will again declare (to you) that Supreme Knowledge, the best of all knowledges, having known which, all the sages have attained Supreme Perfection after this life.\n"
-    },
-    {
-        "hn": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः |\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||\n",
-        "en": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ..14-2..\n",
-        "desc": "2. They who, having refuge in this \"Knowledge, \" have attained to My Being, are neither born at the time of Creation, nor are they disturbed at the time of dissolution.\n"
-    },
-    {
-        "hn": "मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |\nसम्भवः सर्वभूतानां ततो भवति भारत ||१४-३||\n",
-        "en": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ..14-3..\n",
-        "desc": "3. My womb is the great BRAHMAN (MULA PRAKRITI) ; in that I place the germ; from which, O Bharata, is the birth of all beings.\n"
-    },
-    {
-        "hn": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः |\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ||१४-४||\n",
-        "en": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ..14-4..\n",
-        "desc": "4. Whatever forms are produced, O Kaunteya, in all the wombs whatsoever, the great BRAHMA is their womb, and I the seed-giving Father.\n"
-    },
-    {
-        "hn": "\n\nसत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः |\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||\n\n",
-        "en": "\n\nsattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ..14-5..\n\n",
-        "desc": "\n5. Purity, passion, and inertia --- these qualities (GUNAS) , O! mighty-armed, born of\n\"PRAKRITI\" bind, the Indestructible, Embodied one, fast in the body.\n\n"
-    },
-    {
-        "hn": "\n\nतत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ||१४-६||\n\n",
-        "en": "\n\ntatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ..14-6..\n\n",
-        "desc": "\n6. Of these, \"SATTWA\" which because of its stainlessness, is luminous and healthy,\n(unobstructive) . It binds by (creating) attachment to 'happiness' and attachment to\n'knowledge, ' O sinless one.\n\n"
-    },
-    {
-        "hn": "\n\nरजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||\n\n",
-        "en": "\n\nrajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ..14-7..\n\n",
-        "desc": "\n7. Know thou \"RAJAS\" (to be) of the nature of passion, the source of thirst and\nattachment; it binds fast, O Kaunteya, the embodied one, by attachment to action.\n\n"
-    },
-    {
-        "hn": "\n\nतमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||\n\n",
-        "en": "\n\ntamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ..14-8..\n\n",
-        "desc": "\n8. But, know thou TAMAS is born of ignorance, deluding all embodied beings, it binds\nfast, O Bharata, by heedless-ness, indolence and sleep.\n\n"
-    },
-    {
-        "hn": "\n\nसत्त्वं सुखे सञ्जयति रजः कर्मणि भारत |\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||\n\n",
-        "en": "\n\nsattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ..14-9..\n\n",
-        "desc": "\n9. SATTWA attaches to happiness, RAJAS to action, O Bharata, while TAMAS, verily,\nshrouding knowledge, attaches to heedlessness.\n\n"
-    },
-    {
-        "hn": "\n\nरजस्तमश्चाभिभूय सत्त्वं भवति भारत |\nरजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||\n\n",
-        "en": "\n\nrajastamaścābhibhūya sattvaṃ bhavati bhārata .\nrajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā ..14-10..\n\n",
-        "desc": "\n10. Now SATTWA rises (prevails) , O Bharata, having over-powered RAJAS and inertia\n(TAMAS) ; now RAJAS, having over-powered SATTWA and inertia; and inertia\n(TAMAS) , having over-powered SATTWA and RAJAS.\n\n"
-    },
-    {
-        "hn": "\n\nसर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||\n\n",
-        "en": "\n\nsarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ..14-11..\n\n",
-        "desc": "\n11. When, through every gate (sense) in this body, the light-of-intelligence shines, then it\nmay be known that 'SATTWA' is predominant.\n\n"
-    },
-    {
-        "hn": "\n\nलोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा |\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||\n\n",
-        "en": "\n\nlobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ..14-12..\n\n",
-        "desc": "\n12. Greed, activity, undertaking of actions, restless-ness longing --- these arise when\nRAJAS is predominant, O best in the Bharata family.\n\n"
-    },
-    {
-        "hn": "\n\nअप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च |\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||\n\n",
-        "en": "\n\naprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ..14-13..\n\n",
-        "desc": "\n13. Darkness, inertness, heedlessness and delusion --- these arise when 'TAMAS' is\npredominant, O descendant-of-Kuru.\n\n"
-    },
-    {
-        "hn": "\n\nयदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||\n\n",
-        "en": "\n\nyadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ..14-14..\n\n",
-        "desc": "\n14. If the embodied one meets with death when SATTWA is predominant, then he attains\nto the spotless worlds of the \"Knowers of the Highest. \"\n\n"
-    },
-    {
-        "hn": "\n\nरजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |\nतथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||\n\n",
-        "en": "\n\nrajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ..14-15..\n\n",
-        "desc": "\n15. Meeting death in RAJAS, he is born among those attached to action; and dying in\nTAMAS, he is born in the womb of the senseless.\n\n"
-    },
-    {
-        "hn": "\n\nकर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् |\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||\n\n",
-        "en": "\n\nkarmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam .\nrajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ..14-16..\n\n",
-        "desc": "\n16. The fruit of good action, they say, is SATTWIC and pure; verily, the fruit of RAJAS is\npain, and the fruit of TAMAS is ignorance.\n\n"
-    },
-    {
-        "hn": "\n\nसत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||१४-१७||\n\n",
-        "en": "\n\nsattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ..14-17..\n\n",
-        "desc": "\n17. Knowledge arises from SATTWA, greed from RAJAS, heedlessness, delusion and\nalso ignorance arise from TAMAS.\n\n"
-    },
-    {
-        "hn": "\n\nऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः |\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ||१४-१८||\n\n",
-        "en": "\n\nūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ..14-18..\n\n",
-        "desc": "\n18. Those who are abiding in SATTWA go upwards; the RAJASIC dwell in the middle;\nand the TAMASIC, abiding in the function of the lowest GUNA, go downwards.\n\n"
-    },
-    {
-        "hn": "\n\nनान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति |\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||१४-१९||\n\n",
-        "en": "\n\nnānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati .\nguṇebhyaśca paraṃ vetti madbhāvaṃ so.adhigacchati ..14-19..\n\n",
-        "desc": "\n19. When the Seer beholds no agent other than the GUNAS and knows him who is higher\nthan the GUNAS, he attains to My Being.\n\n"
-    },
-    {
-        "hn": "\n\nगुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ||१४-२०||\n\n",
-        "en": "\n\nguṇānetānatītya trīndehī dehasamudbhavān .\njanmamṛtyujarāduḥkhairvimukto.amṛtamaśnute ..14-20..\n\n",
-        "desc": "\n20. The embodied-one having crossed beyond these three GUNAS out of which the body\nis evolved, is freed from birth, death, decay and pain, and attains to Immortality.\n\n"
-    },
-    {
-        "hn": "\n\nअर्जुन उवाच |\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||१४-२१||\n\n",
-        "en": "\n\narjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ..14-21..\n\n",
-        "desc": "\nArjuna said:\n21. What are the marks of him who has crossed over the three GUNAS, O Lord? What is\nhis conduct, and how does he go beyond these three GUNAS?\n\n"
-    },
-    {
-        "hn": "\n\nश्रीभगवानुवाच |\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ||१४-२२||\n\n",
-        "en": "\n\nśrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ..14-22..\n\n",
-        "desc": "\nThe Blessed Lord said:\n22. Light, activity, and delusion, when present, O Pandava, he hates not, nor longs for\nthem when absent.\n\n"
-    },
-    {
-        "hn": "\n\nउदासीनवदासीनो गुणैर्यो न विचाल्यते |\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||\n\n",
-        "en": "\n\nudāsīnavadāsīno guṇairyo na vicālyate .\nguṇā vartanta ityevaṃ yo.avatiṣṭhati neṅgate ..14-23..\n\n",
-        "desc": "\n23. He who, seated like one unconcerned, is not moved by the 'GUNAS, ' who, knowing\nthat the 'GUNAS' operate, is self-centred and swerves not . . .\n\n"
-    },
-    {
-        "hn": "\n\nसमदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः |\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||\n\n",
-        "en": "\n\nsamaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ..14-24..\n\n",
-        "desc": "\n24. Alike in pleasure and pain; who dwells in the Self; to whom a clod of earth, a precious\nstone and gold are alike; to whom the dear and the not-dear are the same; firm; the same\nin censure and self-praise. . . .\n\n"
-    },
-    {
-        "hn": "\n\nमानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः |\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते ||१४-२५||\n\n",
-        "en": "\n\nmānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ..14-25..\n\n",
-        "desc": "\n25. The same in honour and dishonour; the same to friend and foe; abandoning all\nundertakings --- he is said to have crossed beyond the GUNAS.\n\n"
-    },
-    {
-        "hn": "\n\nमां च योऽव्यभिचारेण भक्तियोगेन सेवते |\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||\n\n",
-        "en": "\n\nmāṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ..14-26..\n\n",
-        "desc": "\n26. And he, serving Me with unswerving devotion, and crossing beyond the GUNAS, is fit\nto become BRAHMAN.\n\n"
-    },
-    {
-        "hn": "\n\nब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||१४-२७||\n\n",
-        "en": "\n\nbrahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ..14-27..\n\n",
-        "desc": "\n27. For I am the Abode of BRAHMAN, the Immortal and the Immutable, of everlasting\nDHARMA and of Absolute Bliss.\n\n"
-    },
-    {
-        "hn": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nगुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः ||१४||\n",
-        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde guṇatrayavibhāgayogo nāma caturdaśo.adhyāyaḥ ..14-28..\n",
-        "desc": "Thus, in the UPANISHADS of the glorious Bhagawad-Geeta, in the Science of the Eternal, in the scripture of YOGA , in the dialogue between Sri Krishna and Arjuna, the fourteenth discourse ends entitled:\nTHE YOGA OF GUNAS\n"
-    }
-]
+{
+    "title": "गुणत्रयविभागयोगः",
+    "verses": [
+        {
+            "hn": "श्रीभगवानुवाच |\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ||१४-१||\n",
+            "en": "śrībhagavānuvāca .\nparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam .\nyajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ ..14-1..\n",
+            "desc": "The Blessed Lord said:\n1. I will again declare (to you) that Supreme Knowledge, the best of all knowledges, having known which, all the sages have attained Supreme Perfection after this life.\n"
+        },
+        {
+            "hn": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः |\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||\n",
+            "en": "idaṃ jñānamupāśritya mama sādharmyamāgatāḥ .\nsarge.api nopajāyante pralaye na vyathanti ca ..14-2..\n",
+            "desc": "2. They who, having refuge in this \"Knowledge, \" have attained to My Being, are neither born at the time of Creation, nor are they disturbed at the time of dissolution.\n"
+        },
+        {
+            "hn": "मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |\nसम्भवः सर्वभूतानां ततो भवति भारत ||१४-३||\n",
+            "en": "mama yonirmahad brahma tasmingarbhaṃ dadhāmyaham .\nsambhavaḥ sarvabhūtānāṃ tato bhavati bhārata ..14-3..\n",
+            "desc": "3. My womb is the great BRAHMAN (MULA PRAKRITI) ; in that I place the germ; from which, O Bharata, is the birth of all beings.\n"
+        },
+        {
+            "hn": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः |\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ||१४-४||\n",
+            "en": "sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ .\ntāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā ..14-4..\n",
+            "desc": "4. Whatever forms are produced, O Kaunteya, in all the wombs whatsoever, the great BRAHMA is their womb, and I the seed-giving Father.\n"
+        },
+        {
+            "hn": "\n\nसत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः |\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||\n\n",
+            "en": "\n\nsattvaṃ rajastama iti guṇāḥ prakṛtisambhavāḥ .\nnibadhnanti mahābāho dehe dehinamavyayam ..14-5..\n\n",
+            "desc": "\n5. Purity, passion, and inertia --- these qualities (GUNAS) , O! mighty-armed, born of\n\"PRAKRITI\" bind, the Indestructible, Embodied one, fast in the body.\n\n"
+        },
+        {
+            "hn": "\n\nतत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ||१४-६||\n\n",
+            "en": "\n\ntatra sattvaṃ nirmalatvātprakāśakamanāmayam .\nsukhasaṅgena badhnāti jñānasaṅgena cānagha ..14-6..\n\n",
+            "desc": "\n6. Of these, \"SATTWA\" which because of its stainlessness, is luminous and healthy,\n(unobstructive) . It binds by (creating) attachment to 'happiness' and attachment to\n'knowledge, ' O sinless one.\n\n"
+        },
+        {
+            "hn": "\n\nरजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||\n\n",
+            "en": "\n\nrajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam .\ntannibadhnāti kaunteya karmasaṅgena dehinam ..14-7..\n\n",
+            "desc": "\n7. Know thou \"RAJAS\" (to be) of the nature of passion, the source of thirst and\nattachment; it binds fast, O Kaunteya, the embodied one, by attachment to action.\n\n"
+        },
+        {
+            "hn": "\n\nतमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||\n\n",
+            "en": "\n\ntamastvajñānajaṃ viddhi mohanaṃ sarvadehinām .\npramādālasyanidrābhistannibadhnāti bhārata ..14-8..\n\n",
+            "desc": "\n8. But, know thou TAMAS is born of ignorance, deluding all embodied beings, it binds\nfast, O Bharata, by heedless-ness, indolence and sleep.\n\n"
+        },
+        {
+            "hn": "\n\nसत्त्वं सुखे सञ्जयति रजः कर्मणि भारत |\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||\n\n",
+            "en": "\n\nsattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata .\njñānamāvṛtya tu tamaḥ pramāde sañjayatyuta ..14-9..\n\n",
+            "desc": "\n9. SATTWA attaches to happiness, RAJAS to action, O Bharata, while TAMAS, verily,\nshrouding knowledge, attaches to heedlessness.\n\n"
+        },
+        {
+            "hn": "\n\nरजस्तमश्चाभिभूय सत्त्वं भवति भारत |\nरजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||\n\n",
+            "en": "\n\nrajastamaścābhibhūya sattvaṃ bhavati bhārata .\nrajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā ..14-10..\n\n",
+            "desc": "\n10. Now SATTWA rises (prevails) , O Bharata, having over-powered RAJAS and inertia\n(TAMAS) ; now RAJAS, having over-powered SATTWA and inertia; and inertia\n(TAMAS) , having over-powered SATTWA and RAJAS.\n\n"
+        },
+        {
+            "hn": "\n\nसर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||\n\n",
+            "en": "\n\nsarvadvāreṣu dehe.asminprakāśa upajāyate .\njñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta ..14-11..\n\n",
+            "desc": "\n11. When, through every gate (sense) in this body, the light-of-intelligence shines, then it\nmay be known that 'SATTWA' is predominant.\n\n"
+        },
+        {
+            "hn": "\n\nलोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा |\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||\n\n",
+            "en": "\n\nlobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā .\nrajasyetāni jāyante vivṛddhe bharatarṣabha ..14-12..\n\n",
+            "desc": "\n12. Greed, activity, undertaking of actions, restless-ness longing --- these arise when\nRAJAS is predominant, O best in the Bharata family.\n\n"
+        },
+        {
+            "hn": "\n\nअप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च |\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||\n\n",
+            "en": "\n\naprakāśo.apravṛttiśca pramādo moha eva ca .\ntamasyetāni jāyante vivṛddhe kurunandana ..14-13..\n\n",
+            "desc": "\n13. Darkness, inertness, heedlessness and delusion --- these arise when 'TAMAS' is\npredominant, O descendant-of-Kuru.\n\n"
+        },
+        {
+            "hn": "\n\nयदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||\n\n",
+            "en": "\n\nyadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt .\ntadottamavidāṃ lokānamalānpratipadyate ..14-14..\n\n",
+            "desc": "\n14. If the embodied one meets with death when SATTWA is predominant, then he attains\nto the spotless worlds of the \"Knowers of the Highest. \"\n\n"
+        },
+        {
+            "hn": "\n\nरजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |\nतथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||\n\n",
+            "en": "\n\nrajasi pralayaṃ gatvā karmasaṅgiṣu jāyate .\ntathā pralīnastamasi mūḍhayoniṣu jāyate ..14-15..\n\n",
+            "desc": "\n15. Meeting death in RAJAS, he is born among those attached to action; and dying in\nTAMAS, he is born in the womb of the senseless.\n\n"
+        },
+        {
+            "hn": "\n\nकर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् |\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||\n\n",
+            "en": "\n\nkarmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam .\nrajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam ..14-16..\n\n",
+            "desc": "\n16. The fruit of good action, they say, is SATTWIC and pure; verily, the fruit of RAJAS is\npain, and the fruit of TAMAS is ignorance.\n\n"
+        },
+        {
+            "hn": "\n\nसत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||१४-१७||\n\n",
+            "en": "\n\nsattvātsañjāyate jñānaṃ rajaso lobha eva ca .\npramādamohau tamaso bhavato.ajñānameva ca ..14-17..\n\n",
+            "desc": "\n17. Knowledge arises from SATTWA, greed from RAJAS, heedlessness, delusion and\nalso ignorance arise from TAMAS.\n\n"
+        },
+        {
+            "hn": "\n\nऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः |\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ||१४-१८||\n\n",
+            "en": "\n\nūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ .\njaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ ..14-18..\n\n",
+            "desc": "\n18. Those who are abiding in SATTWA go upwards; the RAJASIC dwell in the middle;\nand the TAMASIC, abiding in the function of the lowest GUNA, go downwards.\n\n"
+        },
+        {
+            "hn": "\n\nनान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति |\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||१४-१९||\n\n",
+            "en": "\n\nnānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati .\nguṇebhyaśca paraṃ vetti madbhāvaṃ so.adhigacchati ..14-19..\n\n",
+            "desc": "\n19. When the Seer beholds no agent other than the GUNAS and knows him who is higher\nthan the GUNAS, he attains to My Being.\n\n"
+        },
+        {
+            "hn": "\n\nगुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ||१४-२०||\n\n",
+            "en": "\n\nguṇānetānatītya trīndehī dehasamudbhavān .\njanmamṛtyujarāduḥkhairvimukto.amṛtamaśnute ..14-20..\n\n",
+            "desc": "\n20. The embodied-one having crossed beyond these three GUNAS out of which the body\nis evolved, is freed from birth, death, decay and pain, and attains to Immortality.\n\n"
+        },
+        {
+            "hn": "\n\nअर्जुन उवाच |\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||१४-२१||\n\n",
+            "en": "\n\narjuna uvāca .\nkairliṅgaistrīnguṇānetānatīto bhavati prabho .\nkimācāraḥ kathaṃ caitāṃstrīnguṇānativartate ..14-21..\n\n",
+            "desc": "\nArjuna said:\n21. What are the marks of him who has crossed over the three GUNAS, O Lord? What is\nhis conduct, and how does he go beyond these three GUNAS?\n\n"
+        },
+        {
+            "hn": "\n\nश्रीभगवानुवाच |\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ||१४-२२||\n\n",
+            "en": "\n\nśrībhagavānuvāca .\nprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava .\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ..14-22..\n\n",
+            "desc": "\nThe Blessed Lord said:\n22. Light, activity, and delusion, when present, O Pandava, he hates not, nor longs for\nthem when absent.\n\n"
+        },
+        {
+            "hn": "\n\nउदासीनवदासीनो गुणैर्यो न विचाल्यते |\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||\n\n",
+            "en": "\n\nudāsīnavadāsīno guṇairyo na vicālyate .\nguṇā vartanta ityevaṃ yo.avatiṣṭhati neṅgate ..14-23..\n\n",
+            "desc": "\n23. He who, seated like one unconcerned, is not moved by the 'GUNAS, ' who, knowing\nthat the 'GUNAS' operate, is self-centred and swerves not . . .\n\n"
+        },
+        {
+            "hn": "\n\nसमदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः |\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||\n\n",
+            "en": "\n\nsamaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ .\ntulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ ..14-24..\n\n",
+            "desc": "\n24. Alike in pleasure and pain; who dwells in the Self; to whom a clod of earth, a precious\nstone and gold are alike; to whom the dear and the not-dear are the same; firm; the same\nin censure and self-praise. . . .\n\n"
+        },
+        {
+            "hn": "\n\nमानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः |\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते ||१४-२५||\n\n",
+            "en": "\n\nmānāpamānayostulyastulyo mitrāripakṣayoḥ .\nsarvārambhaparityāgī guṇātītaḥ sa ucyate ..14-25..\n\n",
+            "desc": "\n25. The same in honour and dishonour; the same to friend and foe; abandoning all\nundertakings --- he is said to have crossed beyond the GUNAS.\n\n"
+        },
+        {
+            "hn": "\n\nमां च योऽव्यभिचारेण भक्तियोगेन सेवते |\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||\n\n",
+            "en": "\n\nmāṃ ca yo.avyabhicāreṇa bhaktiyogena sevate .\nsa guṇānsamatītyaitānbrahmabhūyāya kalpate ..14-26..\n\n",
+            "desc": "\n26. And he, serving Me with unswerving devotion, and crossing beyond the GUNAS, is fit\nto become BRAHMAN.\n\n"
+        },
+        {
+            "hn": "\n\nब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||१४-२७||\n\n",
+            "en": "\n\nbrahmaṇo hi pratiṣṭhāhamamṛtasyāvyayasya ca .\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ..14-27..\n\n",
+            "desc": "\n27. For I am the Abode of BRAHMAN, the Immortal and the Immutable, of everlasting\nDHARMA and of Absolute Bliss.\n\n"
+        },
+        {
+            "hn": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nगुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः ||१४||\n",
+            "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde guṇatrayavibhāgayogo nāma caturdaśo.adhyāyaḥ ..14-28..\n",
+            "desc": "Thus, in the UPANISHADS of the glorious Bhagawad-Geeta, in the Science of the Eternal, in the scripture of YOGA , in the dialogue between Sri Krishna and Arjuna, the fourteenth discourse ends entitled:\nTHE YOGA OF GUNAS\n"
+        }
+    ]
+}

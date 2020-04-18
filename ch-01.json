@@ -1,242 +1,245 @@
-[
-    {
-        "hn": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||\n",
-        "en": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ..1-1..\n",
-        "desc": "Dhritarashtra said:\n1. What did the sons of Pandu and also my people do when, desirous to fight, they assembled together on the holy plain of Kurukshetra, O Sanjaya?\n"
-    },
-    {
-        "hn": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||\n",
-        "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ..1-2..\n",
-        "desc": "Sanjaya said:\n2. Having seen the army of the Pandavas drawn up in battle array, King Duryodhana then approached his teacher (Drona) and spoke these words.\n"
-    },
-    {
-        "hn": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||\n",
-        "en": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ..1-3..\n",
-        "desc": "3. Behold, O Teacher! this mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.\n"
-    },
-    {
-        "hn": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||\n",
-        "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ..1-4..\n",
-        "desc": "4. Here are heroes, mighty archers, equal in battle to Bhima and Arjuna, Yuyudhana, Virata and Drupada, each commanding eleven-thousand archers.\n"
-    },
-    {
-        "hn": "\n\nधृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||\n\n",
-        "en": "\n\ndhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ..1-5..\n\n",
-        "desc": "\n5. Dhrishtaketu, Chekitana, and the valiant king of Kashi, Purujit and Kuntibhoja and\nSaibya, the best of men.\n\n"
-    },
-    {
-        "hn": "\n\nयुधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||\n\n",
-        "en": "\n\nyudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ..1-6..\n\n",
-        "desc": "\n6. The strong Yudhamanyu and the brave Uttamaujas, the son of Subhadra and the sons\nof Draupadi, all of them, divisional commanders.\n\n"
-    },
-    {
-        "hn": "\n\nअस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||\n\n",
-        "en": "\n\nasmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ..1-7..\n\n",
-        "desc": "\n7. Know also, O best among the twice-born, the names of those who are the most\ndistinguished amongst ourselves, the leaders of my army; these I name to thee for thy\ninformation.\n\n"
-    },
-    {
-        "hn": "\n\nभवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||\n\n",
-        "en": "\n\nbhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ..1-8..\n\n",
-        "desc": "\n8. Yourself and Bishma, and Karna and also Kripa, the victorious in war; Aswatthama,\nVikarna and so also the son of Somadatta.\n\n"
-    },
-    {
-        "hn": "\n\nअन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||\n\n",
-        "en": "\n\nanye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ..1-9..\n\n",
-        "desc": "\n9. And many other heroes also who are determined to give up their lives for my sake,\narmed with various weapons and missiles, all well-skilled in battle.\n\n"
-    },
-    {
-        "hn": "\n\nअपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||\n\n",
-        "en": "\n\naparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ..1-10..\n\n",
-        "desc": "\n10. This army of ours defended by Bhishma is insufficient, whereas that army of theirs\ndefended by Bhima is sufficient. Or, This army of ours protected by Bhishma is unlimited,\nwhereas that army of theirs protected by Bhima is limited.\n\n"
-    },
-    {
-        "hn": "\n\nअयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||\n\n",
-        "en": "\n\nayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ..1-11..\n\n",
-        "desc": "\n11. Therefore do you all, stationed in your respective positions in the several divisions of\nthe army, protect Bhishma alone.\n\n"
-    },
-    {
-        "hn": "\n\nतस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||\n\n",
-        "en": "\n\ntasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ..1-12..\n\n",
-        "desc": "\n12. His glorious grandsire (Bhishma) , the oldest of the Kauravas, in order to cheer\nDuryodhana, now sounded aloud a lion's roar and blew his conch.\n\n"
-    },
-    {
-        "hn": "\n\nततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||\n\n",
-        "en": "\n\ntataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ..1-13..\n\n",
-        "desc": "\n13. Then (following Bhishma) , conches and kettle-drums, tabors, drums and cow-horns\nblared forth quite suddenly and the sound was tremendous.\n\n"
-    },
-    {
-        "hn": "\n\nततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||\n\n",
-        "en": "\n\ntataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ..1-14..\n\n",
-        "desc": "\n14. Then, also Madhava and the son of Pandu, seated in their magnificent chariot yoked\nwith white horses, blew their divine conches.\n\n"
-    },
-    {
-        "hn": "\n\nपाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||\n\n",
-        "en": "\n\npāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ..1-15..\n\n",
-        "desc": "\n15. Hrishikesha blew the Panchajanya and Dhananjaya (Arjuna) blew the Devadatta and\nVrikodara (Bhima) , the doer of terrible deeds, blew the great conch, named Paundra.\n\n"
-    },
-    {
-        "hn": "\n\nअनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||\n\n",
-        "en": "\n\nanantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ..1-16..\n\n",
-        "desc": "\n16. King Yudhisthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva\nblew the Sughosha and the Manipushpaka.\n\n"
-    },
-    {
-        "hn": "\n\nकाश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||\n\n",
-        "en": "\n\nkāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ..1-17..\n\n",
-        "desc": "\n17. The king of Kashi, an excellent archer, Shikhandi, the mighty commander of eleven\nthousand archers, Dhristadyumna and Virata and Satyaki, the unconquered;\n\n"
-    },
-    {
-        "hn": "\n\nद्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||\n\n",
-        "en": "\n\ndrupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ..1-18..\n\n",
-        "desc": "\n18. Drupada and the sons of Draupadi, O Lord of the Earth, and the son of Subhadra, the\nmighty armed, blew their respective conches.\n\n"
-    },
-    {
-        "hn": "\n\nस घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||\n\n",
-        "en": "\n\nsa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)..1-19..\n\n",
-        "desc": "\n19. That tumultuous sound rent the hearts of (the people of) Dhritarashtra's party and\nmade both heaven and earth reverberate.\n\n"
-    },
-    {
-        "hn": "\n\nअथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||\n\n",
-        "en": "\n\natha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ..1-20..\n\n",
-        "desc": "\n20-21. Then, seeing the people of Dhritarashtra's party standing arrayed and the\ndischarge of weapons about to begin, Arjuna, the son of Pandu, whose ensign was a\nmonkey, took up his bow and said these words to Krishna (Hrishikesha) , O Lord of the\nEarth!\n\n"
-    },
-    {
-        "hn": "\n\nअर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||\n\n",
-        "en": "\n\nhṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ..1-21..\n\n",
-        "desc": "\nArjuna said:\n21-22. In the midst of the two armies, place my chariot, O Achyuta, that I may behold\nthose who stand here desirous of fighting and, on the eve of this battle, let me know with\nwhom I must fight.\n\n"
-    },
-    {
-        "hn": "\n\nयावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||\n\n",
-        "en": "\n\nyāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ..1-22..\n\n",
-        "desc": "\n21-22. In the midst of the two armies, place my chariot, O Achyuta, that I may behold\nthose who stand here desirous of fighting and, on the eve of this battle, let me know with\nwhom I must fight. \n"
-    },
-    {
-        "hn": "\n\nयोत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||\n\n",
-        "en": "\n\nyotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ..1-23..\n\n",
-        "desc": "\n23. For I desire to observe those who are assembled here for the fight, wishing to please\nin battle, the evil-minded sons of Dhritarashtra.\n\n"
-    },
-    {
-        "hn": "\n\nसञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||\n\n",
-        "en": "\n\nsañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ..1-24..\n\n",
-        "desc": "\nSanjaya said:\n24. Thus addressed by Gudakesha, O Bharata, Hrishikesha, having stationed the best of\nchariots between the two armies;\n\n"
-    },
-    {
-        "hn": "\n\nभीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||\n\n",
-        "en": "\n\nbhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ..1-25..\n\n",
-        "desc": "\n25. In front of Bhishma and Drona, and all the rulers of the earth, he said, 'O Partha,\nbehold these Kurus gathered together. '\n\n"
-    },
-    {
-        "hn": "\n\nतत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||\n\n",
-        "en": "\n\ntatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ..1-26..\n\n",
-        "desc": "\n26. Then Partha saw stationed there in both the armies, fathers, grandfathers, teachers,\nmaternal uncles, brothers, sons, grandsons and friends too.\n\n"
-    },
-    {
-        "hn": "\n\nश्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||\n\n",
-        "en": "\n\nśvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ..1-27..\n\n",
-        "desc": "\n27. (He saw) Fathers-in-law and friends also in both the armies. Then the son of Kunti,\nseeing all these kinsmen thus standing arrayed, spoke thus sorrowfully, filled with deep\npity.\n\n"
-    },
-    {
-        "hn": "\n\nकृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||\n\n",
-        "en": "\n\nkṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ..1-28..\n\n",
-        "desc": "\nArjuna said: 28. Seeing these my kinsmen, O Krishna, arrayed, eager to fight,\n\n"
-    },
-    {
-        "hn": "\n\nसीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||\n\n",
-        "en": "\n\nsīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ..1-29..\n\n",
-        "desc": "\n29. My limbs fail and my mouth is parched, my body quivers and my hair stands on end.\n\n"
-    },
-    {
-        "hn": "\n\nगाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||\n\n",
-        "en": "\n\ngāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ..1-30..\n\n",
-        "desc": "\n30. The Gandiva-bow slips from my hand, and my skin burns all over; I am also unable to\nstand and my mind is whirling round, as it were.\n\n"
-    },
-    {
-        "hn": "\n\nनिमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||\n\n",
-        "en": "\n\nnimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ..1-31..\n\n",
-        "desc": "\n31. And I see adverse omens, O Keshava. Nor do I see any good in killing my kinsmen in\nbattle.\n\n"
-    },
-    {
-        "hn": "\n\nन काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||\n\n",
-        "en": "\n\nna kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ..1-32..\n\n",
-        "desc": "\n32. For, I desire not victory, O Krishna, nor kingdom, nor pleasures. Of what avail is\ndominion to us, O Govinda? Of what avail are pleasures or even life itself?\n\n"
-    },
-    {
-        "hn": "\n\nयेषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||\n\n",
-        "en": "\n\nyeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ..1-33..\n\n",
-        "desc": "\n33. They for whose sake we desire kingdom, enjoyment and pleasures stand here in\nbattle, having renounced life and wealth.\n\n"
-    },
-    {
-        "hn": "\n\nआचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||\n\n",
-        "en": "\n\nācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ..1-34..\n\n",
-        "desc": "\n34. Teachers, fathers, sons and also grandfathers, maternal uncles, fathers-in-law,\ngrandsons, brothers-in-law and other relatives.\n\n"
-    },
-    {
-        "hn": "\n\nएतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||\n\n",
-        "en": "\n\netānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ..1-35..\n\n",
-        "desc": "\n35. These I do not wish to kill, though they kill me, O Madhusudana, even for the sake of\ndominion over the three worlds; how much less for the sake of the earth.\n\n"
-    },
-    {
-        "hn": "\n\nनिहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||\n\n",
-        "en": "\n\nnihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ..1-36..\n\n",
-        "desc": "\n36. Killing these sons of Dhritarashtra, what pleasure can be ours, O Janardana? Sin\nalone will be our gain by killing these felons.\n\n"
-    },
-    {
-        "hn": "\n\nतस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||\n\n",
-        "en": "\n\ntasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ..1-37..\n\n",
-        "desc": "\n37. Therefore we shall not kill the sons of Dhritarashtra, our relatives; for how can we be\nhappy by killing our own people, O Madhava?\n\n"
-    },
-    {
-        "hn": "\n\nयद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||\n\n",
-        "en": "\n\nyadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ..1-38..\n\n",
-        "desc": "\n38. Though these, with their intelligence clouded by greed, see no evil in the destruction\nof the families in the society, and no sin in their cruelty to friends; . . .\n\n"
-    },
-    {
-        "hn": "\n\nकथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||\n\n",
-        "en": "\n\nkathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ..1-39..\n\n",
-        "desc": "\n39. Why should not we, who clearly see evil in the destruction of the family-units, learn to\nturn away from this sin, O Janardana?\n\n"
-    },
-    {
-        "hn": "\n\nकुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||\n\n",
-        "en": "\n\nkulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ..1-40..\n\n",
-        "desc": "\n40. In the destruction of a family, the immemorial religious rites of that family perish; on\nthe destruction of spirituality, impiety overcomes the whole family.\n\n"
-    },
-    {
-        "hn": "\n\nअधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||\n\n",
-        "en": "\n\nadharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ..1-41..\n\n",
-        "desc": "\n41. By the prevalence of impiety, O Krishna, the women of the family become corrupt;\nand women being corrupted, O descendent of the Vrishni-clan, there arises\n\"intermingling of castes\" (VARNA-SAMKARA) .\n\n"
-    },
-    {
-        "hn": "\n\nसङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||\n\n",
-        "en": "\n\nsaṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ..1-42..\n\n",
-        "desc": "\n42. 'Confusion of castes' leads the slayer of the family to hell; for their forefathers fall,\ndeprived of the offerings of PINDA (rice-ball) and water (libations) .\n\n"
-    },
-    {
-        "hn": "\n\nदोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||\n\n",
-        "en": "\n\ndoṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ..1-43..\n\n",
-        "desc": "\n43. By these evil deeds of the 'destroyers of the family, ' which cause confusion of castes,\nthe eternal religious rites of the caste and the family are destroyed.\n\n"
-    },
-    {
-        "hn": "\n\nउत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||\n\n",
-        "en": "\n\nutsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ..1-44..\n\n",
-        "desc": "\n44. We have heard, O Janardana, that it is inevitable for those men, in whose families the\nreligious practices have been destroyed, to dwell in hell for an unknown period of time.\n\n"
-    },
-    {
-        "hn": "\n\nअहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||\n\n",
-        "en": "\n\naho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ..1-45..\n\n",
-        "desc": "\n45. Alas! We are involved in a great sin, in that we are prepared to kill our kinsmen, from\ngreed for the pleasures of the kingdom.\n\n"
-    },
-    {
-        "hn": "\n\nयदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||\n\n",
-        "en": "\n\nyadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ..1-46..\n\n",
-        "desc": "\n46. If the sons of Dhritarashtra, weapons-in-hand, slay me in battle, unresisting and\nunarmed, that would be better for me.\n\n"
-    },
-    {
-        "hn": "\n\nसञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||\n\n",
-        "en": "\n\nsañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ..1-47..\n\n",
-        "desc": "\nSanjaya said :\n47. Having thus spoken in the midst of the battle-field, Arjuna sat down on the seat of\nthe chariot, casting away his bow and arrow, with a mind distressed with sorrow.\n\n"
-    },
-    {
-        "hn": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nअर्जुनविषादयोगो नाम प्रथमोऽध्यायः ||१||\n",
-        "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ..1-48..\n",
-        "desc": "Thus, in the UPANISHADS of the glorious Bhagawad Geeta, in the Science of the Eternal, in the scripture of YOGA, in the dialogue between Sri Krishna and Arjuna, the first discourse ends entitled:\nTHE YOGA OF THE ARJUNA-GRIEF\n"
-    }
-]
+{
+    "title": "अर्जुनविषादयोगः",
+    "verses": [
+        {
+            "hn": "धृतराष्ट्र उवाच |\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||\n",
+            "en": "dhṛtarāṣṭra uvāca .\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ .\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya ..1-1..\n",
+            "desc": "Dhritarashtra said:\n1. What did the sons of Pandu and also my people do when, desirous to fight, they assembled together on the holy plain of Kurukshetra, O Sanjaya?\n"
+        },
+        {
+            "hn": "सञ्जय उवाच |\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा |\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ||१-२||\n",
+            "en": "sañjaya uvāca .\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā .\nācāryamupasaṃgamya rājā vacanamabravīt ..1-2..\n",
+            "desc": "Sanjaya said:\n2. Having seen the army of the Pandavas drawn up in battle array, King Duryodhana then approached his teacher (Drona) and spoke these words.\n"
+        },
+        {
+            "hn": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||\n",
+            "en": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm .\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ..1-3..\n",
+            "desc": "3. Behold, O Teacher! this mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.\n"
+        },
+        {
+            "hn": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि |\nयुयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||\n",
+            "en": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi .\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ ..1-4..\n",
+            "desc": "4. Here are heroes, mighty archers, equal in battle to Bhima and Arjuna, Yuyudhana, Virata and Drupada, each commanding eleven-thousand archers.\n"
+        },
+        {
+            "hn": "\n\nधृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् |\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||\n\n",
+            "en": "\n\ndhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān .\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ ..1-5..\n\n",
+            "desc": "\n5. Dhrishtaketu, Chekitana, and the valiant king of Kashi, Purujit and Kuntibhoja and\nSaibya, the best of men.\n\n"
+        },
+        {
+            "hn": "\n\nयुधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||\n\n",
+            "en": "\n\nyudhāmanyuśca vikrānta uttamaujāśca vīryavān .\nsaubhadro draupadeyāśca sarva eva mahārathāḥ ..1-6..\n\n",
+            "desc": "\n6. The strong Yudhamanyu and the brave Uttamaujas, the son of Subhadra and the sons\nof Draupadi, all of them, divisional commanders.\n\n"
+        },
+        {
+            "hn": "\n\nअस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||\n\n",
+            "en": "\n\nasmākaṃ tu viśiṣṭā ye tānnibodha dvijottama .\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te ..1-7..\n\n",
+            "desc": "\n7. Know also, O best among the twice-born, the names of those who are the most\ndistinguished amongst ourselves, the leaders of my army; these I name to thee for thy\ninformation.\n\n"
+        },
+        {
+            "hn": "\n\nभवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः |\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||\n\n",
+            "en": "\n\nbhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ .\naśvatthāmā vikarṇaśca saumadattistathaiva ca ..1-8..\n\n",
+            "desc": "\n8. Yourself and Bishma, and Karna and also Kripa, the victorious in war; Aswatthama,\nVikarna and so also the son of Somadatta.\n\n"
+        },
+        {
+            "hn": "\n\nअन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः |\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||\n\n",
+            "en": "\n\nanye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ .\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ..1-9..\n\n",
+            "desc": "\n9. And many other heroes also who are determined to give up their lives for my sake,\narmed with various weapons and missiles, all well-skilled in battle.\n\n"
+        },
+        {
+            "hn": "\n\nअपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||\n\n",
+            "en": "\n\naparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam .\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam ..1-10..\n\n",
+            "desc": "\n10. This army of ours defended by Bhishma is insufficient, whereas that army of theirs\ndefended by Bhima is sufficient. Or, This army of ours protected by Bhishma is unlimited,\nwhereas that army of theirs protected by Bhima is limited.\n\n"
+        },
+        {
+            "hn": "\n\nअयनेषु च सर्वेषु यथाभागमवस्थिताः |\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||\n\n",
+            "en": "\n\nayaneṣu ca sarveṣu yathābhāgamavasthitāḥ .\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi ..1-11..\n\n",
+            "desc": "\n11. Therefore do you all, stationed in your respective positions in the several divisions of\nthe army, protect Bhishma alone.\n\n"
+        },
+        {
+            "hn": "\n\nतस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः |\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||\n\n",
+            "en": "\n\ntasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ .\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ..1-12..\n\n",
+            "desc": "\n12. His glorious grandsire (Bhishma) , the oldest of the Kauravas, in order to cheer\nDuryodhana, now sounded aloud a lion's roar and blew his conch.\n\n"
+        },
+        {
+            "hn": "\n\nततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः |\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||\n\n",
+            "en": "\n\ntataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ .\nsahasaivābhyahanyanta sa śabdastumulo.abhavat ..1-13..\n\n",
+            "desc": "\n13. Then (following Bhishma) , conches and kettle-drums, tabors, drums and cow-horns\nblared forth quite suddenly and the sound was tremendous.\n\n"
+        },
+        {
+            "hn": "\n\nततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||\n\n",
+            "en": "\n\ntataḥ śvetairhayairyukte mahati syandane sthitau .\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ ..1-14..\n\n",
+            "desc": "\n14. Then, also Madhava and the son of Pandu, seated in their magnificent chariot yoked\nwith white horses, blew their divine conches.\n\n"
+        },
+        {
+            "hn": "\n\nपाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः |\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||\n\n",
+            "en": "\n\npāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ .\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ..1-15..\n\n",
+            "desc": "\n15. Hrishikesha blew the Panchajanya and Dhananjaya (Arjuna) blew the Devadatta and\nVrikodara (Bhima) , the doer of terrible deeds, blew the great conch, named Paundra.\n\n"
+        },
+        {
+            "hn": "\n\nअनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः |\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||\n\n",
+            "en": "\n\nanantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ .\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau ..1-16..\n\n",
+            "desc": "\n16. King Yudhisthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva\nblew the Sughosha and the Manipushpaka.\n\n"
+        },
+        {
+            "hn": "\n\nकाश्यश्च परमेष्वासः शिखण्डी च महारथः |\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||\n\n",
+            "en": "\n\nkāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ .\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ ..1-17..\n\n",
+            "desc": "\n17. The king of Kashi, an excellent archer, Shikhandi, the mighty commander of eleven\nthousand archers, Dhristadyumna and Virata and Satyaki, the unconquered;\n\n"
+        },
+        {
+            "hn": "\n\nद्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||\n\n",
+            "en": "\n\ndrupado draupadeyāśca sarvaśaḥ pṛthivīpate .\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak ..1-18..\n\n",
+            "desc": "\n18. Drupada and the sons of Draupadi, O Lord of the Earth, and the son of Subhadra, the\nmighty armed, blew their respective conches.\n\n"
+        },
+        {
+            "hn": "\n\nस घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् |\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||\n\n",
+            "en": "\n\nsa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat .\nnabhaśca pṛthivīṃ caiva tumulo.abhyanunādayan (lo vyanu)..1-19..\n\n",
+            "desc": "\n19. That tumultuous sound rent the hearts of (the people of) Dhritarashtra's party and\nmade both heaven and earth reverberate.\n\n"
+        },
+        {
+            "hn": "\n\nअथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः |\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः |\nहृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||\n\n",
+            "en": "\n\natha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ .\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ ..1-20..\n\n",
+            "desc": "\n20-21. Then, seeing the people of Dhritarashtra's party standing arrayed and the\ndischarge of weapons about to begin, Arjuna, the son of Pandu, whose ensign was a\nmonkey, took up his bow and said these words to Krishna (Hrishikesha) , O Lord of the\nEarth!\n\n"
+        },
+        {
+            "hn": "\n\nअर्जुन उवाच |\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||\n\n",
+            "en": "\n\nhṛṣīkeśaṃ tadā vākyamidamāha mahīpate .\narjuna uvāca .\nsenayorubhayormadhye rathaṃ sthāpaya me.acyuta ..1-21..\n\n",
+            "desc": "\nArjuna said:\n21-22. In the midst of the two armies, place my chariot, O Achyuta, that I may behold\nthose who stand here desirous of fighting and, on the eve of this battle, let me know with\nwhom I must fight.\n\n"
+        },
+        {
+            "hn": "\n\nयावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||\n\n",
+            "en": "\n\nyāvadetānnirikṣe.ahaṃ yoddhukāmānavasthitān .\nkairmayā saha yoddhavyamasmin raṇasamudyame ..1-22..\n\n",
+            "desc": "\n21-22. In the midst of the two armies, place my chariot, O Achyuta, that I may behold\nthose who stand here desirous of fighting and, on the eve of this battle, let me know with\nwhom I must fight. \n"
+        },
+        {
+            "hn": "\n\nयोत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||\n\n",
+            "en": "\n\nyotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ..1-23..\n\n",
+            "desc": "\n23. For I desire to observe those who are assembled here for the fight, wishing to please\nin battle, the evil-minded sons of Dhritarashtra.\n\n"
+        },
+        {
+            "hn": "\n\nसञ्जय उवाच |\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत |\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||\n\n",
+            "en": "\n\nsañjaya uvāca .\nevamukto hṛṣīkeśo guḍākeśena bhārata .\nsenayorubhayormadhye sthāpayitvā rathottamam ..1-24..\n\n",
+            "desc": "\nSanjaya said:\n24. Thus addressed by Gudakesha, O Bharata, Hrishikesha, having stationed the best of\nchariots between the two armies;\n\n"
+        },
+        {
+            "hn": "\n\nभीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् |\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||१-२५||\n\n",
+            "en": "\n\nbhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām .\nuvāca pārtha paśyaitānsamavetānkurūniti ..1-25..\n\n",
+            "desc": "\n25. In front of Bhishma and Drona, and all the rulers of the earth, he said, 'O Partha,\nbehold these Kurus gathered together. '\n\n"
+        },
+        {
+            "hn": "\n\nतत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् |\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||१-२६||\n\n",
+            "en": "\n\ntatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān .\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā ..1-26..\n\n",
+            "desc": "\n26. Then Partha saw stationed there in both the armies, fathers, grandfathers, teachers,\nmaternal uncles, brothers, sons, grandsons and friends too.\n\n"
+        },
+        {
+            "hn": "\n\nश्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ||१-२७||\n\n",
+            "en": "\n\nśvaśurānsuhṛdaścaiva senayorubhayorapi .\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān ..1-27..\n\n",
+            "desc": "\n27. (He saw) Fathers-in-law and friends also in both the armies. Then the son of Kunti,\nseeing all these kinsmen thus standing arrayed, spoke thus sorrowfully, filled with deep\npity.\n\n"
+        },
+        {
+            "hn": "\n\nकृपया परयाविष्टो विषीदन्निदमब्रवीत् |\nअर्जुन उवाच |\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||\n\n",
+            "en": "\n\nkṛpayā parayāviṣṭo viṣīdannidamabravīt .\narjuna uvāca .\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ..1-28..\n\n",
+            "desc": "\nArjuna said: 28. Seeing these my kinsmen, O Krishna, arrayed, eager to fight,\n\n"
+        },
+        {
+            "hn": "\n\nसीदन्ति मम गात्राणि मुखं च परिशुष्यति |\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||\n\n",
+            "en": "\n\nsīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati .\nvepathuśca śarīre me romaharṣaśca jāyate ..1-29..\n\n",
+            "desc": "\n29. My limbs fail and my mouth is parched, my body quivers and my hair stands on end.\n\n"
+        },
+        {
+            "hn": "\n\nगाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||\n\n",
+            "en": "\n\ngāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate .\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ ..1-30..\n\n",
+            "desc": "\n30. The Gandiva-bow slips from my hand, and my skin burns all over; I am also unable to\nstand and my mind is whirling round, as it were.\n\n"
+        },
+        {
+            "hn": "\n\nनिमित्तानि च पश्यामि विपरीतानि केशव |\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||\n\n",
+            "en": "\n\nnimittāni ca paśyāmi viparītāni keśava .\nna ca śreyo.anupaśyāmi hatvā svajanamāhave ..1-31..\n\n",
+            "desc": "\n31. And I see adverse omens, O Keshava. Nor do I see any good in killing my kinsmen in\nbattle.\n\n"
+        },
+        {
+            "hn": "\n\nन काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||\n\n",
+            "en": "\n\nna kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca .\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā ..1-32..\n\n",
+            "desc": "\n32. For, I desire not victory, O Krishna, nor kingdom, nor pleasures. Of what avail is\ndominion to us, O Govinda? Of what avail are pleasures or even life itself?\n\n"
+        },
+        {
+            "hn": "\n\nयेषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च |\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||\n\n",
+            "en": "\n\nyeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca .\nta ime.avasthitā yuddhe prāṇāṃstyaktvā dhanāni ca ..1-33..\n\n",
+            "desc": "\n33. They for whose sake we desire kingdom, enjoyment and pleasures stand here in\nbattle, having renounced life and wealth.\n\n"
+        },
+        {
+            "hn": "\n\nआचार्याः पितरः पुत्रास्तथैव च पितामहाः |\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||\n\n",
+            "en": "\n\nācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ .\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā ..1-34..\n\n",
+            "desc": "\n34. Teachers, fathers, sons and also grandfathers, maternal uncles, fathers-in-law,\ngrandsons, brothers-in-law and other relatives.\n\n"
+        },
+        {
+            "hn": "\n\nएतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||\n\n",
+            "en": "\n\netānna hantumicchāmi ghnato.api madhusūdana .\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte ..1-35..\n\n",
+            "desc": "\n35. These I do not wish to kill, though they kill me, O Madhusudana, even for the sake of\ndominion over the three worlds; how much less for the sake of the earth.\n\n"
+        },
+        {
+            "hn": "\n\nनिहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन |\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||\n\n",
+            "en": "\n\nnihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana .\npāpamevāśrayedasmānhatvaitānātatāyinaḥ ..1-36..\n\n",
+            "desc": "\n36. Killing these sons of Dhritarashtra, what pleasure can be ours, O Janardana? Sin\nalone will be our gain by killing these felons.\n\n"
+        },
+        {
+            "hn": "\n\nतस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||\n\n",
+            "en": "\n\ntasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ..1-37..\n\n",
+            "desc": "\n37. Therefore we shall not kill the sons of Dhritarashtra, our relatives; for how can we be\nhappy by killing our own people, O Madhava?\n\n"
+        },
+        {
+            "hn": "\n\nयद्यप्येते न पश्यन्ति लोभोपहतचेतसः |\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||\n\n",
+            "en": "\n\nyadyapyete na paśyanti lobhopahatacetasaḥ .\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam ..1-38..\n\n",
+            "desc": "\n38. Though these, with their intelligence clouded by greed, see no evil in the destruction\nof the families in the society, and no sin in their cruelty to friends; . . .\n\n"
+        },
+        {
+            "hn": "\n\nकथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् |\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ||१-३९||\n\n",
+            "en": "\n\nkathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum .\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana ..1-39..\n\n",
+            "desc": "\n39. Why should not we, who clearly see evil in the destruction of the family-units, learn to\nturn away from this sin, O Janardana?\n\n"
+        },
+        {
+            "hn": "\n\nकुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||\n\n",
+            "en": "\n\nkulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .\ndharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ..1-40..\n\n",
+            "desc": "\n40. In the destruction of a family, the immemorial religious rites of that family perish; on\nthe destruction of spirituality, impiety overcomes the whole family.\n\n"
+        },
+        {
+            "hn": "\n\nअधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः |\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||\n\n",
+            "en": "\n\nadharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ .\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ ..1-41..\n\n",
+            "desc": "\n41. By the prevalence of impiety, O Krishna, the women of the family become corrupt;\nand women being corrupted, O descendent of the Vrishni-clan, there arises\n\"intermingling of castes\" (VARNA-SAMKARA) .\n\n"
+        },
+        {
+            "hn": "\n\nसङ्करो नरकायैव कुलघ्नानां कुलस्य च |\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ||१-४२||\n\n",
+            "en": "\n\nsaṅkaro narakāyaiva kulaghnānāṃ kulasya ca .\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ ..1-42..\n\n",
+            "desc": "\n42. 'Confusion of castes' leads the slayer of the family to hell; for their forefathers fall,\ndeprived of the offerings of PINDA (rice-ball) and water (libations) .\n\n"
+        },
+        {
+            "hn": "\n\nदोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः |\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||\n\n",
+            "en": "\n\ndoṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ .\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ ..1-43..\n\n",
+            "desc": "\n43. By these evil deeds of the 'destroyers of the family, ' which cause confusion of castes,\nthe eternal religious rites of the caste and the family are destroyed.\n\n"
+        },
+        {
+            "hn": "\n\nउत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |\nनरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||\n\n",
+            "en": "\n\nutsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana .\nnarake niyataṃ vāso bhavatītyanuśuśruma ..1-44..\n\n",
+            "desc": "\n44. We have heard, O Janardana, that it is inevitable for those men, in whose families the\nreligious practices have been destroyed, to dwell in hell for an unknown period of time.\n\n"
+        },
+        {
+            "hn": "\n\nअहो बत महत्पापं कर्तुं व्यवसिता वयम् |\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||\n\n",
+            "en": "\n\naho bata mahatpāpaṃ kartuṃ vyavasitā vayam .\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ ..1-45..\n\n",
+            "desc": "\n45. Alas! We are involved in a great sin, in that we are prepared to kill our kinsmen, from\ngreed for the pleasures of the kingdom.\n\n"
+        },
+        {
+            "hn": "\n\nयदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः |\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ||१-४६||\n\n",
+            "en": "\n\nyadi māmapratīkāramaśastraṃ śastrapāṇayaḥ .\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet ..1-46..\n\n",
+            "desc": "\n46. If the sons of Dhritarashtra, weapons-in-hand, slay me in battle, unresisting and\nunarmed, that would be better for me.\n\n"
+        },
+        {
+            "hn": "\n\nसञ्जय उवाच |\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |\nविसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||\n\n",
+            "en": "\n\nsañjaya uvāca .\nevamuktvārjunaḥ saṅkhye rathopastha upāviśat .\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ..1-47..\n\n",
+            "desc": "\nSanjaya said :\n47. Having thus spoken in the midst of the battle-field, Arjuna sat down on the seat of\nthe chariot, casting away his bow and arrow, with a mind distressed with sorrow.\n\n"
+        },
+        {
+            "hn": "ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु\nब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे\nअर्जुनविषादयोगो नाम प्रथमोऽध्यायः ||१||\n",
+            "en": "OM tatsaditi śrīmadbhagavadgītāsūpaniṣatsu brahmavidyāyāṃ yogaśāstre śrīkṛṣṇārjunasaṃvāde arjunaviṣādayogo nāma prathamo.adhyāyaḥ ..1-48..\n",
+            "desc": "Thus, in the UPANISHADS of the glorious Bhagawad Geeta, in the Science of the Eternal, in the scripture of YOGA, in the dialogue between Sri Krishna and Arjuna, the first discourse ends entitled:\nTHE YOGA OF THE ARJUNA-GRIEF\n"
+        }
+    ]
+}

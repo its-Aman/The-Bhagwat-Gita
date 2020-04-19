@@ -1,16 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
     <title>The Bhagwat Gita</title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+
+    <!-- Don't use this in production: -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 </head>
 
 <body>
-    <h1>
-        The-Bhagwat-Gita
-    </h1>
+    <div id="root"></div>
+    <script type="text/babel">
+
+        import data from "./ch-all.json";
+
+        class App extends Component {
+            render() {
+                return (
+                    <div>
+                        {[...data].map(ch => {
+                            return (
+                                <div>
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <Chapter key={ch.title} chapter={ch} />;
+                                    <Verses key={ch.verses} verses={ch.verses} />;
+                                </div>
+                            );
+                        })}
+                    </div>
+                );
+            }
+        }
+
+        function Chapter({ chapter }) {
+            return (
+                <div>
+                    <p>
+                        <center>{chapter.title}</center>
+                    </p>
+                </div>
+            );
+        }
+
+        function Verses({ verses }) {
+            return (
+                <div>
+                    {[...verses].map(verse => {
+                        return (
+                            <p>
+                                <center>{verse.hn}</center>
+                                <center>{verse.desc}</center>
+                            </p>
+                        );
+                    })}
+                </div>
+            );
+        }
+
+        ReactDOM.render(
+            <App />,
+            document.getElementById('root')
+        );
+
+    </script>
 </body>
 
 </html>

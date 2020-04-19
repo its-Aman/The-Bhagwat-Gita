@@ -12,61 +12,62 @@
 
 <body>
     <div id="root"></div>
-    <script type="text/babel">
+    <script data-plugins="transform-class-properties,transform-decorators-legacy,transform-regenerator"
+        type="text/babel">
 
-        import data from "./ch-all.json";
+            import data from "./ch-all.json";
 
-        class App extends Component {
-            render() {
+            class App extends Component {
+                render() {
+                    return (
+                        <div>
+                            {[...data].map(ch => {
+                                return (
+                                    <div>
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <Chapter key={ch.title} chapter={ch} />;
+                                        <Verses key={ch.verses} verses={ch.verses} />;
+                                    </div>
+                                );
+                            })}
+                        </div>
+                    );
+                }
+            }
+
+            function Chapter({ chapter }) {
                 return (
                     <div>
-                        {[...data].map(ch => {
+                        <p>
+                            <center>{chapter.title}</center>
+                        </p>
+                    </div>
+                );
+            }
+
+            function Verses({ verses }) {
+                return (
+                    <div>
+                        {[...verses].map(verse => {
                             return (
-                                <div>
-                                    <br />
-                                    <br />
-                                    <br />
-                                    <Chapter key={ch.title} chapter={ch} />;
-                                    <Verses key={ch.verses} verses={ch.verses} />;
-                                </div>
+                                <p>
+                                    <center>{verse.hn}</center>
+                                    <center>{verse.desc}</center>
+                                </p>
                             );
                         })}
                     </div>
                 );
             }
-        }
 
-        function Chapter({ chapter }) {
-            return (
-                <div>
-                    <p>
-                        <center>{chapter.title}</center>
-                    </p>
-                </div>
+            ReactDOM.render(
+                <App />,
+                document.getElementById('root')
             );
-        }
 
-        function Verses({ verses }) {
-            return (
-                <div>
-                    {[...verses].map(verse => {
-                        return (
-                            <p>
-                                <center>{verse.hn}</center>
-                                <center>{verse.desc}</center>
-                            </p>
-                        );
-                    })}
-                </div>
-            );
-        }
-
-        ReactDOM.render(
-            <App />,
-            document.getElementById('root')
-        );
-
-    </script>
+        </script>
 </body>
 
 </html>

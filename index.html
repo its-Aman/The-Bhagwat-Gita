@@ -12,62 +12,61 @@
 
 <body>
     <div id="root"></div>
-    <script data-plugins="transform-decorators-legacy,transform-regenerator"
-        type="text/babel">
+    <script type="text/babel">
 
-            import data from "./ch-all.json";
+        import data from "./ch-all.json";
 
-            class App extends Component {
-                render() {
-                    return (
-                        <div>
-                            {[...data].map(ch => {
-                                return (
-                                    <div>
-                                        <br />
-                                        <br />
-                                        <br />
-                                        <Chapter key={ch.title} chapter={ch} />;
-                                        <Verses key={ch.verses} verses={ch.verses} />;
-                                    </div>
-                                );
-                            })}
-                        </div>
-                    );
-                }
-            }
-
-            function Chapter({ chapter }) {
+        class App extends Component {
+            render() {
                 return (
                     <div>
-                        <p>
-                            <center>{chapter.title}</center>
-                        </p>
-                    </div>
-                );
-            }
-
-            function Verses({ verses }) {
-                return (
-                    <div>
-                        {[...verses].map(verse => {
+                        {[...data].map(ch => {
                             return (
-                                <p>
-                                    <center>{verse.hn}</center>
-                                    <center>{verse.desc}</center>
-                                </p>
+                                <div>
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <Chapter key={ch.title} chapter={ch} />;
+                                    <Verses key={ch.verses} verses={ch.verses} />;
+                                </div>
                             );
                         })}
                     </div>
                 );
             }
+        }
 
-            ReactDOM.render(
-                <App />,
-                document.getElementById('root')
+        function Chapter({ chapter }) {
+            return (
+                <div>
+                    <p>
+                        <center>{chapter.title}</center>
+                    </p>
+                </div>
             );
+        }
 
-        </script>
+        function Verses({ verses }) {
+            return (
+                <div>
+                    {[...verses].map(verse => {
+                        return (
+                            <p>
+                                <center>{verse.hn}</center>
+                                <center>{verse.desc}</center>
+                            </p>
+                        );
+                    })}
+                </div>
+            );
+        }
+
+        ReactDOM.render(
+            <App />,
+            document.getElementById('root')
+        );
+
+    </script>
 </body>
 
 </html>

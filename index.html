@@ -4,61 +4,181 @@
 <head>
     <meta charset="UTF-8" />
     <title>The Bhagwat Gita</title>
-    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
-    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
 
-    <script type="text/javascript" language="javascript" src="ch-all.json"></script> 
+    <!-- Importing Data from ch-all.json -->
+    <script type="text/javascript" language="javascript" src="ch-all.json"></script>
 
+    <!-- Including bootstrap css for react -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+
+    <!-- Font Awesome CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+        crossorigin="anonymous">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+    <!-- ReactJS production scripts -->
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+
+    <!-- Babel Standalone JS -->
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- React Bootstrap JS -->
+    <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.js" defer crossorigin></script>
+
+
 </head>
 
 <body>
     <div id="root"></div>
 
     <script type="text/babel">
-        
+        var { Container, Row, Col, Button } = ReactBootstrap;
+
         class App extends React.Component {
+            constructor(props) {
+                super(props);
+
+                this.state = {
+                    chapterIndex: 0,
+                    verseIndex: 0,
+                    verse: [...data][0].verses[0],
+                    chapter: [...data][0]
+                };
+            }
+
+            decChapter = () => {
+                if (this.state.chapterIndex > 0) {
+                    this.setState({
+                        chapterIndex: this.state.chapterIndex - 1,
+                        verseIndex: 0,
+                        verse: [...data][this.state.chapterIndex - 1].verses[0],
+                        chapter: [...data][this.state.chapterIndex - 1]
+                    },
+                        () => this.c_log("decChapter")
+                    );
+                }
+            }
+
+            incChapter = () => {
+                if (this.state.chapterIndex < [...data].length - 1) {
+                    this.setState({
+                        chapterIndex: this.state.chapterIndex + 1,
+                        verseIndex: 0,
+                        verse: [...data][this.state.chapterIndex + 1].verses[0],
+                        chapter: [...data][this.state.chapterIndex + 1]
+                    },
+                        () => this.c_log("incChapter")
+                    );
+                }
+            }
+
+            decVerse = () => {
+                if (this.state.verseIndex > 0) {
+                    this.setState({
+                        chapterIndex: this.state.chapterIndex,
+                        verseIndex: this.state.verseIndex - 1,
+                        verse: [...data][this.state.chapterIndex].verses[this.state.verseIndex - 1],
+                        chapter: [...data][this.state.chapterIndex]
+                    },
+                        () => this.c_log("decVerse")
+                    );
+                }
+            }
+
+            incVerse = () => {
+                if (this.state.verseIndex < [...data][this.state.chapterIndex].verses.length - 1) {
+                    this.setState({
+                        chapterIndex: this.state.chapterIndex,
+                        verseIndex: this.state.verseIndex + 1,
+                        verse: [...data][this.state.chapterIndex].verses[this.state.verseIndex + 1],
+                        chapter: [...data][this.state.chapterIndex]
+                    },
+                        () => this.c_log("incVerse")
+                    );
+                }
+            }
+
+            c_log(message, ...optionalParams) {
+                console.log(message, this.state);
+            }
+
             render() {
                 return (
-                    <div>
-                        {[...data].map(ch => {
-                            return (
-                                <div>
-                                    <br />
-                                    <br />
-                                    <br />
-                                    <Chapter key={ch.title} chapter={ch} />;
-                                    <Verses key={ch.verses} verses={ch.verses} />;
-                                </div>
-                            );
-                        })}
-                    </div>
+                    <Container fluid>
+                        <center>
+                            <br /><br /><br />
+                            <Chapter
+                                className="bounceInLeft"
+                                key={[...data][this.state.chapterIndex].title}
+                                chapter={[...data][this.state.chapterIndex]}
+                                incChapter={this.incChapter}
+                                decChapter={this.decChapter}
+                            />
+                            <br /><br /><br />
+                            <Verses
+                                className="bounceInLeft"
+                                key={[...data][this.state.chapterIndex].verses[this.state.verseIndex]}
+                                verse={this.state.verse}
+                                decVerse={this.decVerse}
+                                incVerse={this.incVerse} />
+                        </center>
+                    </Container>
                 );
             }
         }
 
-        function Chapter({ chapter }) {
+        function Chapter({ chapter, incChapter, decChapter }) {
             return (
-                <div>
-                    <p>
-                        <center>{chapter.title}</center>
-                    </p>
-                </div>
+                <Row className="justify-content-md-center">
+                    <Col md={{ span: 2 }}>
+                        <Button variant="outline-dark" onClick={() => { decChapter() }}>
+                            <i class="fas fa-chevron-left"></i>
+                        </Button>
+                    </Col>
+                    <Col md={{ span: 8 }}>
+                        <h1>
+                            <center>{chapter.title}</center>
+                        </h1>
+                    </Col>
+                    <Col md={{ span: 2 }}>
+                        <Button variant="outline-dark" onClick={() => { incChapter() }}>
+                            <i class="fas fa-chevron-right"></i>
+                        </Button>
+                    </Col>
+                </Row>
             );
         }
 
-        function Verses({ verses }) {
+        function Verses({ verse, decVerse, incVerse }) {
             return (
-                <div>
-                    {[...verses].map(verse => {
-                        return (
-                            <p>
-                                <center>{verse.hn}</center>
-                                <center>{verse.desc}</center>
-                            </p>
-                        );
-                    })}
-                </div>
+                <Row className="justify-content-md-center">
+                    <Col md={{ span: 2 }}>
+                        <Button variant="secondary" onClick={() => { decVerse() }}>
+                            <i class="fas fa-angle-left"></i>
+                        </Button>
+                    </Col>
+                    <Col md={{ span: 8 }}>
+                        <center>{verse.hn}</center>
+                        <br />
+                        <center>{verse.en}</center>
+                        <br /><br />
+                    </Col>
+                    <Col md={{ span: 2 }}>
+                        <Button variant="secondary" onClick={() => { incVerse() }}>
+                            <i class="fas fa-angle-right"></i>
+                        </Button>
+                    </Col>
+                    <br /><br /><br />
+                    <Col md={{ span: 8, offset: 2 }}>
+                        <center>{verse.desc}</center>
+                    </Col>
+                    <br /><br /><br />
+                </Row>
             );
         }
 

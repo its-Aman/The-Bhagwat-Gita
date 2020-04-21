@@ -113,7 +113,6 @@
                         <center>
                             <br /><br /><br />
                             <Chapter
-                                className="bounceInLeft"
                                 key={[...data][this.state.chapterIndex].title}
                                 chapter={[...data][this.state.chapterIndex]}
                                 incChapter={this.incChapter}
@@ -121,8 +120,7 @@
                             />
                             <br /><br /><br />
                             <Verses
-                                className="bounceInLeft"
-                                key={[...data][this.state.chapterIndex].verses[this.state.verseIndex]}
+                                key={this.state.verse.en}
                                 verse={this.state.verse}
                                 decVerse={this.decVerse}
                                 incVerse={this.incVerse} />
@@ -140,7 +138,7 @@
                             <i class="fas fa-chevron-left"></i>
                         </Button>
                     </Col>
-                    <Col md={{ span: 8 }}>
+                    <Col md={{ span: 8 }} className="animated fadeIn fast chapter-name">
                         <h1>
                             <center>{chapter.title}</center>
                         </h1>
@@ -162,10 +160,18 @@
                             <i class="fas fa-angle-left"></i>
                         </Button>
                     </Col>
-                    <Col md={{ span: 8 }}>
-                        <center>{verse.hn}</center>
+                    <Col md={{ span: 8 }} className="animated fadeIn">
+                        <center class="verse-hn">
+                            <strong>
+                                {verse.hn}
+                            </strong>
+                        </center>
                         <br />
-                        <center>{verse.en}</center>
+                        <center class="verse-en">
+                            <em>
+                                {verse.en}
+                            </em>
+                        </center>
                         <br /><br />
                     </Col>
                     <Col md={{ span: 2 }}>
@@ -174,8 +180,8 @@
                         </Button>
                     </Col>
                     <br /><br /><br />
-                    <Col md={{ span: 8 }}>
-                        <center>{verse.desc}</center>
+                    <Col md={{ span: 8 }} className="animated fadeIn">
+                        <center class="verse-desc">{verse.desc}</center>
                     </Col>
                     <br /><br /><br />
                 </Row>
@@ -188,6 +194,36 @@
         );
 
     </script>
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            background-color: #fff6e9;
+        }
+
+        .chapter-name {
+            padding: 10px;
+            background-color: #ffefd7;
+        }
+
+        .verse-hn {
+            padding: 10px;
+            background-color: #fffef9;
+        }
+
+        .verse-en {
+            padding: 10px;
+            background-color: #e3f0ff;
+            text-decoration: underline;
+        }
+
+        .verse-desc {
+            background-color: #d2e7ff;
+            padding: 10px;
+            border-radius: 2px;
+        }
+    </style>
 </body>
 
 </html>

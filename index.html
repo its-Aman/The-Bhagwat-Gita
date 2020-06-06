@@ -49,6 +49,25 @@
                     verse: [...data][0].verses[0],
                     chapter: [...data][0]
                 };
+                this.keyboardShortcut = this.keyboardShortcut.bind(this);
+            }
+            keyboardShortcut(event){
+                if(event.shiftKey && event.keyCode === 37) { // shift + left for prev verse
+                    this.decVerse();
+                }else if(event.shiftKey && event.keyCode === 39){ // shift + right for next verse
+                    this.incVerse();
+                }else if(event.keyCode === 37) { //left for prev chapter
+                    this.decChapter()
+                }else if(event.keyCode === 39) {  //right for next chapter
+                    this.incChapter()
+                }
+            }
+
+            componentDidMount(){
+                document.addEventListener("keydown", this.keyboardShortcut, false);
+            }
+            componentWillUnmount(){
+                document.removeEventListener("keydown", this.keyboardShortcut, false);
             }
 
             decChapter = () => {

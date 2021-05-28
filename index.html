@@ -21,15 +21,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
 
     <!-- ReactJS production scripts -->
-    <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
 
     <!-- Babel Standalone JS -->
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
     <!-- React Bootstrap JS -->
-    <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.js" defer crossorigin></script>
-
+    <script src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js" crossorigin></script>
 
 </head>
 
@@ -51,22 +50,22 @@
                 };
                 this.keyboardShortcut = this.keyboardShortcut.bind(this);
             }
-            keyboardShortcut(event){
-                if(event.shiftKey && event.keyCode === 37) { // shift + left for prev verse
+            keyboardShortcut(event) {
+                if (event.shiftKey && event.keyCode === 37) { // shift + left for prev verse
                     this.decVerse();
-                }else if(event.shiftKey && event.keyCode === 39){ // shift + right for next verse
+                } else if (event.shiftKey && event.keyCode === 39) { // shift + right for next verse
                     this.incVerse();
-                }else if(event.keyCode === 37) { //left for prev chapter
+                } else if (event.keyCode === 37) { //left for prev chapter
                     this.decChapter()
-                }else if(event.keyCode === 39) {  //right for next chapter
+                } else if (event.keyCode === 39) {  //right for next chapter
                     this.incChapter()
                 }
             }
 
-            componentDidMount(){
+            componentDidMount() {
                 document.addEventListener("keydown", this.keyboardShortcut, false);
             }
-            componentWillUnmount(){
+            componentWillUnmount() {
                 document.removeEventListener("keydown", this.keyboardShortcut, false);
             }
 

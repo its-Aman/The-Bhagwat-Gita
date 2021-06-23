@@ -122,12 +122,6 @@
                 }
             }
 
-            renderTooltip = (text) => (
-                <Tooltip id="button-tooltip-{text}">
-                    {text}
-                </Tooltip>
-            );
-
             c_log(message, ...optionalParams) {
                 console.log(message, this.state);
             }
@@ -142,7 +136,6 @@
                                 chapter={[...data][this.state.chapterIndex]}
                                 incChapter={this.incChapter}
                                 decChapter={this.decChapter}
-                                renderTooltip={this.renderTooltip}
                             />
                             <br /><br /><br />
                             <Verses
@@ -150,7 +143,6 @@
                                 verse={this.state.verse}
                                 decVerse={this.decVerse}
                                 incVerse={this.incVerse}
-                                renderTooltip={this.renderTooltip}
                             />
                         </center>
                     </Container>
@@ -158,19 +150,16 @@
             }
         }
 
-        function Chapter({ chapter, incChapter, decChapter, renderTooltip }) {
+        function Chapter({ chapter, incChapter, decChapter }) {
             return (
                 <Row className="justify-content-md-center">
                     <Col md={{ span: 2 }}>
-                        <OverlayTrigger
-                            placement="top"
-                            delay={{ show: 250, hide: 400 }}
-                            overlay={renderTooltip("Left Arrow")}
+                        <ButtonWithTooltip
+                            text="Left Arrow"
+                            buttonClick={decChapter}
+                            btnClass="fas fa-chevron-left"
                         >
-                            <Button variant="outline-dark" onClick={() => { decChapter() }}>
-                                <i class="fas fa-chevron-left"></i>
-                            </Button>
-                        </OverlayTrigger>
+                        </ButtonWithTooltip>
                     </Col>
                     <Col md={{ span: 8 }} className="animated fadeIn fast chapter-name">
                         <h1>
@@ -178,33 +167,27 @@
                         </h1>
                     </Col>
                     <Col md={{ span: 2 }}>
-                        <OverlayTrigger
-                            placement="top"
-                            delay={{ show: 250, hide: 400 }}
-                            overlay={renderTooltip("Right Arrow")}
+                        <ButtonWithTooltip
+                            text="Right Arrow"
+                            buttonClick={incChapter}
+                            btnClass="fas fa-chevron-right"
                         >
-                            <Button variant="outline-dark" onClick={() => { incChapter() }}>
-                                <i class="fas fa-chevron-right"></i>
-                            </Button>
-                        </OverlayTrigger>
+                        </ButtonWithTooltip>
                     </Col>
                 </Row>
             );
         }
 
-        function Verses({ verse, decVerse, incVerse, renderTooltip }) {
+        function Verses({ verse, decVerse, incVerse }) {
             return (
                 <Row className="justify-content-md-center">
                     <Col md={{ span: 2 }}>
-                        <OverlayTrigger
-                            placement="top"
-                            delay={{ show: 250, hide: 400 }}
-                            overlay={renderTooltip("Shift + Left Arrow")}
+                        <ButtonWithTooltip
+                            text="Shift + Left Arrow"
+                            buttonClick={decVerse}
+                            btnClass="fas fa-angle-left"
                         >
-                            <Button variant="secondary" onClick={() => { decVerse() }}>
-                                <i class="fas fa-angle-left"></i>
-                            </Button>
-                        </OverlayTrigger>
+                        </ButtonWithTooltip>
                     </Col>
                     <Col md={{ span: 8 }} className="animated fadeIn">
                         <center class="verse-hn">
@@ -221,15 +204,12 @@
                         <br /><br />
                     </Col>
                     <Col md={{ span: 2 }}>
-                        <OverlayTrigger
-                            placement="top"
-                            delay={{ show: 250, hide: 400 }}
-                            overlay={renderTooltip("Shift + Right Arrow")}
+                        <ButtonWithTooltip
+                            text="Shift + Right Arrow"
+                            buttonClick={incVerse}
+                            btnClass="fas fa-angle-right"
                         >
-                            <Button variant="secondary" onClick={() => { incVerse() }}>
-                                <i class="fas fa-angle-right"></i>
-                            </Button>
-                        </OverlayTrigger>
+                        </ButtonWithTooltip>
                     </Col>
                     <br /><br /><br />
                     <Col md={{ span: 8 }} className="animated fadeIn">
@@ -237,6 +217,24 @@
                     </Col>
                     <br /><br /><br />
                 </Row>
+            );
+        }
+
+        function ButtonWithTooltip({ placement, renderTooltip, text, buttonClick, btnClass }) {
+            return (
+                <OverlayTrigger
+                    placement="top"
+                    delay={{ show: 250, hide: 400 }}
+                    overlay={
+                        <Tooltip id="button-tooltip-{text}">
+                            {text}
+                        </Tooltip>
+                    }
+                >
+                    <Button variant="secondary" onClick={() => { buttonClick() }}>
+                        <i class={btnClass}></i>
+                    </Button>
+                </OverlayTrigger>
             );
         }
 

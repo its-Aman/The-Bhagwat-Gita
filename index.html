@@ -36,7 +36,7 @@
     <div id="root"></div>
 
     <script type="text/babel">
-        var { Container, Row, Col, Button } = ReactBootstrap;
+        var { Container, Row, Col, Button, Tooltip, OverlayTrigger } = ReactBootstrap;
 
         class App extends React.Component {
             constructor(props) {
@@ -50,6 +50,7 @@
                 };
                 this.keyboardShortcut = this.keyboardShortcut.bind(this);
             }
+
             keyboardShortcut(event) {
                 if (event.shiftKey && event.keyCode === 37) { // shift + left for prev verse
                     this.decVerse();
@@ -121,6 +122,12 @@
                 }
             }
 
+            renderTooltip = (text) => (
+                <Tooltip id="button-tooltip-{text}">
+                    {text}
+                </Tooltip>
+            );
+
             c_log(message, ...optionalParams) {
                 console.log(message, this.state);
             }
@@ -135,26 +142,35 @@
                                 chapter={[...data][this.state.chapterIndex]}
                                 incChapter={this.incChapter}
                                 decChapter={this.decChapter}
+                                renderTooltip={this.renderTooltip}
                             />
                             <br /><br /><br />
                             <Verses
                                 key={this.state.verse.en}
                                 verse={this.state.verse}
                                 decVerse={this.decVerse}
-                                incVerse={this.incVerse} />
+                                incVerse={this.incVerse}
+                                renderTooltip={this.renderTooltip}
+                            />
                         </center>
                     </Container>
                 );
             }
         }
 
-        function Chapter({ chapter, incChapter, decChapter }) {
+        function Chapter({ chapter, incChapter, decChapter, renderTooltip }) {
             return (
                 <Row className="justify-content-md-center">
                     <Col md={{ span: 2 }}>
-                        <Button variant="outline-dark" onClick={() => { decChapter() }}>
-                            <i class="fas fa-chevron-left"></i>
-                        </Button>
+                        <OverlayTrigger
+                            placement="top"
+                            delay={{ show: 250, hide: 400 }}
+                            overlay={renderTooltip("Left Arrow")}
+                        >
+                            <Button variant="outline-dark" onClick={() => { decChapter() }}>
+                                <i class="fas fa-chevron-left"></i>
+                            </Button>
+                        </OverlayTrigger>
                     </Col>
                     <Col md={{ span: 8 }} className="animated fadeIn fast chapter-name">
                         <h1>
@@ -162,21 +178,33 @@
                         </h1>
                     </Col>
                     <Col md={{ span: 2 }}>
-                        <Button variant="outline-dark" onClick={() => { incChapter() }}>
-                            <i class="fas fa-chevron-right"></i>
-                        </Button>
+                        <OverlayTrigger
+                            placement="top"
+                            delay={{ show: 250, hide: 400 }}
+                            overlay={renderTooltip("Right Arrow")}
+                        >
+                            <Button variant="outline-dark" onClick={() => { incChapter() }}>
+                                <i class="fas fa-chevron-right"></i>
+                            </Button>
+                        </OverlayTrigger>
                     </Col>
                 </Row>
             );
         }
 
-        function Verses({ verse, decVerse, incVerse }) {
+        function Verses({ verse, decVerse, incVerse, renderTooltip }) {
             return (
                 <Row className="justify-content-md-center">
                     <Col md={{ span: 2 }}>
-                        <Button variant="secondary" onClick={() => { decVerse() }}>
-                            <i class="fas fa-angle-left"></i>
-                        </Button>
+                        <OverlayTrigger
+                            placement="top"
+                            delay={{ show: 250, hide: 400 }}
+                            overlay={renderTooltip("Shift + Left Arrow")}
+                        >
+                            <Button variant="secondary" onClick={() => { decVerse() }}>
+                                <i class="fas fa-angle-left"></i>
+                            </Button>
+                        </OverlayTrigger>
                     </Col>
                     <Col md={{ span: 8 }} className="animated fadeIn">
                         <center class="verse-hn">
@@ -193,9 +221,15 @@
                         <br /><br />
                     </Col>
                     <Col md={{ span: 2 }}>
-                        <Button variant="secondary" onClick={() => { incVerse() }}>
-                            <i class="fas fa-angle-right"></i>
-                        </Button>
+                        <OverlayTrigger
+                            placement="top"
+                            delay={{ show: 250, hide: 400 }}
+                            overlay={renderTooltip("Shift + Right Arrow")}
+                        >
+                            <Button variant="secondary" onClick={() => { incVerse() }}>
+                                <i class="fas fa-angle-right"></i>
+                            </Button>
+                        </OverlayTrigger>
                     </Col>
                     <br /><br /><br />
                     <Col md={{ span: 8 }} className="animated fadeIn">

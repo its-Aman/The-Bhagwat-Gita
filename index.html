@@ -158,6 +158,7 @@
                             text="Left Arrow"
                             buttonClick={decChapter}
                             btnClass="fas fa-chevron-left"
+                            btnVariant="outline-dark"
                         >
                         </ButtonWithTooltip>
                     </Col>
@@ -171,6 +172,7 @@
                             text="Right Arrow"
                             buttonClick={incChapter}
                             btnClass="fas fa-chevron-right"
+                            btnVariant="outline-dark"
                         >
                         </ButtonWithTooltip>
                     </Col>
@@ -186,6 +188,7 @@
                             text="Shift + Left Arrow"
                             buttonClick={decVerse}
                             btnClass="fas fa-angle-left"
+                            btnVariant="secondary"
                         >
                         </ButtonWithTooltip>
                     </Col>
@@ -208,6 +211,7 @@
                             text="Shift + Right Arrow"
                             buttonClick={incVerse}
                             btnClass="fas fa-angle-right"
+                            btnVariant="secondary"
                         >
                         </ButtonWithTooltip>
                     </Col>
@@ -220,7 +224,7 @@
             );
         }
 
-        function ButtonWithTooltip({ placement, renderTooltip, text, buttonClick, btnClass }) {
+        function ButtonWithTooltip({ placement, renderTooltip, text, buttonClick, btnClass, btnVariant }) {
             return (
                 <OverlayTrigger
                     placement="top"
@@ -231,7 +235,7 @@
                         </Tooltip>
                     }
                 >
-                    <Button variant="secondary" onClick={() => { buttonClick() }}>
+                    <Button variant={btnVariant} onClick={() => { buttonClick() }}>
                         <i class={btnClass}></i>
                     </Button>
                 </OverlayTrigger>
